@@ -1,0 +1,2 @@
+/opt/trino-querylog-app/trino-querylog/src/test/java/com/github/trino/querylog/QueryLogListenerFactoryTest.java
+/opt/trino-querylog-app/trino-querylog/src/test/java/com/github/trino/querylog/QueryLogListenerTest.java

@@ -1,0 +1,61 @@
+/opt/java11/bin/javadoc
+@options
+@packages
+-classpath
+'/root/.m2/repository/io/trino/trino-spi/355/trino-spi-355.jar:/root/.m2/repository/io/airlift/slice/0.39/slice-0.39.jar:/root/.m2/repository/org/openjdk/jol/jol-core/0.2/jol-core-0.2.jar:/root/.m2/repository/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar:/root/.m2/repository/org/apache/logging/log4j/log4j-api/2.14.0/log4j-api-2.14.0.jar:/root/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.5/jackson-databind-2.10.5.jar:/root/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.5/jackson-core-2.10.5.jar:/root/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.5/jackson-annotations-2.10.5.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+11
+-sourcepath
+'/opt/trino-querylog-app/trino-querylog/src/main/java:/opt/trino-querylog-app/trino-querylog/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/opt/trino-querylog-app/trino-querylog/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Trino Query Log 0.4.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/opt/trino-querylog-app/trino-querylog/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Trino Query Log 0.4.0-SNAPSHOT API'
+com.github.trino.querylog
+com.github.trino.querylog
+com.github.trino.querylog
+/root/.m2/repository/io/trino/trino-spi/355/trino-spi-355.jar = 1649683826764
+/root/.m2/repository/io/airlift/slice/0.39/slice-0.39.jar = 1641326575639
+/root/.m2/repository/org/openjdk/jol/jol-core/0.2/jol-core-0.2.jar = 1641326575193
+/root/.m2/repository/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar = 1649682676113
+/root/.m2/repository/org/apache/logging/log4j/log4j-api/2.14.0/log4j-api-2.14.0.jar = 1649682675956
+/root/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.5/jackson-databind-2.10.5.jar = 1641364673311
+/root/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.5/jackson-core-2.10.5.jar = 1641364671007
+/root/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.5/jackson-annotations-2.10.5.jar = 1641364406288
+/opt/trino-querylog-app/trino-querylog/src/main/java = 1650108918847
+/opt/trino-querylog-app/trino-querylog/target/generated-sources/annotations = 1650110803805
+/opt/trino-querylog-app/trino-querylog/target/apidocs/element-list = 1650110822254
+/opt/trino-querylog-app/trino-querylog/target/apidocs/constant-values.html = 1650110822302
+/opt/trino-querylog-app/trino-querylog/target/apidocs/overview-tree.html = 1650110822337
+/opt/trino-querylog-app/trino-querylog/target/apidocs/package-search-index.js = 1650110822366
+/opt/trino-querylog-app/trino-querylog/target/apidocs/package-search-index.zip = 1650110822366
+/opt/trino-querylog-app/trino-querylog/target/apidocs/type-search-index.js = 1650110822387
+/opt/trino-querylog-app/trino-querylog/target/apidocs/type-search-index.zip = 1650110822387
+/opt/trino-querylog-app/trino-querylog/target/apidocs/member-search-index.js = 1650110822387
+/opt/trino-querylog-app/trino-querylog/target/apidocs/member-search-index.zip = 1650110822388
+/opt/trino-querylog-app/trino-querylog/target/apidocs/index-all.html = 1650110822389
+/opt/trino-querylog-app/trino-querylog/target/apidocs/allclasses-index.html = 1650110822392
+/opt/trino-querylog-app/trino-querylog/target/apidocs/allpackages-index.html = 1650110822395
+/opt/trino-querylog-app/trino-querylog/target/apidocs/deprecated-list.html = 1650110822417
+/opt/trino-querylog-app/trino-querylog/target/apidocs/allclasses.html = 1650110822418
+/opt/trino-querylog-app/trino-querylog/target/apidocs/index.html = 1650110822419
+/opt/trino-querylog-app/trino-querylog/target/apidocs/help-doc.html = 1650110822422
+/opt/trino-querylog-app/trino-querylog/target/apidocs/stylesheet.css = 1650110822423
+/opt/trino-querylog-app/trino-querylog/target/apidocs/script.js = 1650110822424
+/opt/trino-querylog-app/trino-querylog/target/apidocs/search.js = 1650110822424
